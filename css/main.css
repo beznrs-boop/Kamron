@@ -1,0 +1,64 @@
+.service {
+    margin-top: 100px;
+}
+
+.service_heading {
+    font-family: Mulish;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 0;
+}
+
+.service_hr {
+    width: 56px;
+    height: 2px;
+    border-radius: 5px;
+    border: none;
+    background: black;
+}
+
+.service_text {
+    width: 952px;
+    font-family: Mulish;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.service_list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.service_item {
+    width: 350px;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid solid black;
+}
+
+.service_item_heading {
+    font-family: Mulish;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    letter-spacing: 0%;
+}
+
+.service_item_text {
+    width: 266px;
+    font-family: Mulish;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0%;
+}
